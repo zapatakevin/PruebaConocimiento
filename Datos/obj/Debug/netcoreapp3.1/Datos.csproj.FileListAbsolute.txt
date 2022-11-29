@@ -1,0 +1,9 @@
+C:\Users\kevin\source\repos\PruebaConocimiento\Datos\bin\Debug\netcoreapp3.1\Datos.deps.json
+C:\Users\kevin\source\repos\PruebaConocimiento\Datos\bin\Debug\netcoreapp3.1\Datos.dll
+C:\Users\kevin\source\repos\PruebaConocimiento\Datos\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\kevin\source\repos\PruebaConocimiento\Datos\obj\Debug\netcoreapp3.1\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\PruebaConocimiento\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\PruebaConocimiento\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfo.cs
+C:\Users\kevin\source\repos\PruebaConocimiento\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\PruebaConocimiento\Datos\obj\Debug\netcoreapp3.1\Datos.dll
+C:\Users\kevin\source\repos\PruebaConocimiento\Datos\obj\Debug\netcoreapp3.1\Datos.pdb

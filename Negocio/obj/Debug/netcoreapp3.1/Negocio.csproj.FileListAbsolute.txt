@@ -1,0 +1,10 @@
+C:\Users\kevin\source\repos\PruebaConocimiento\Negocio\bin\Debug\netcoreapp3.1\Negocio.dll.config
+C:\Users\kevin\source\repos\PruebaConocimiento\Negocio\bin\Debug\netcoreapp3.1\Negocio.deps.json
+C:\Users\kevin\source\repos\PruebaConocimiento\Negocio\bin\Debug\netcoreapp3.1\Negocio.dll
+C:\Users\kevin\source\repos\PruebaConocimiento\Negocio\bin\Debug\netcoreapp3.1\Negocio.pdb
+C:\Users\kevin\source\repos\PruebaConocimiento\Negocio\obj\Debug\netcoreapp3.1\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\PruebaConocimiento\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\PruebaConocimiento\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfo.cs
+C:\Users\kevin\source\repos\PruebaConocimiento\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\PruebaConocimiento\Negocio\obj\Debug\netcoreapp3.1\Negocio.dll
+C:\Users\kevin\source\repos\PruebaConocimiento\Negocio\obj\Debug\netcoreapp3.1\Negocio.pdb

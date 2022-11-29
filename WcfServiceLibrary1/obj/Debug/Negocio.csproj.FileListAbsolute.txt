@@ -1,0 +1,12 @@
+C:\Users\kevin\source\repos\PruebaConocimiento\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\kevin\source\repos\PruebaConocimiento\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\kevin\source\repos\PruebaConocimiento\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\kevin\source\repos\PruebaConocimiento\WcfServiceLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\kevin\source\repos\PruebaConocimiento\WcfServiceLibrary1\bin\Debug\Z.Expressions.Eval.dll
+C:\Users\kevin\source\repos\PruebaConocimiento\WcfServiceLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\kevin\source\repos\PruebaConocimiento\WcfServiceLibrary1\bin\Debug\Z.Expressions.Eval.xml
+C:\Users\kevin\source\repos\PruebaConocimiento\WcfServiceLibrary1\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\PruebaConocimiento\WcfServiceLibrary1\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\PruebaConocimiento\WcfServiceLibrary1\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\kevin\source\repos\PruebaConocimiento\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\kevin\source\repos\PruebaConocimiento\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb

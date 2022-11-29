@@ -1,0 +1,6 @@
+C:\Users\kevin\source\repos\PruebaConocimiento\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\kevin\source\repos\PruebaConocimiento\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\kevin\source\repos\PruebaConocimiento\ClassLibrary1\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\PruebaConocimiento\ClassLibrary1\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\PruebaConocimiento\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\kevin\source\repos\PruebaConocimiento\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
